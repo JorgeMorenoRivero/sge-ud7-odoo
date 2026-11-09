@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <title>Forja Iron Club</title>
+
+  <!-- Chispas -->
+  <g fill="#E8590C">
+    <polygon points="118,150 126,166 118,182 110,166"/>
+    <polygon points="170,112 176,124 170,136 164,124"/>
+    <polygon points="480,140 486,152 480,164 474,152"/>
+    <circle cx="228" cy="128" r="5"/>
+    <circle cx="432" cy="112" r="5"/>
+  </g>
+
+  <!-- Mancuerna -->
+  <g fill="#1C1C1E" transform="translate(10,0)">
+    <rect x="182" y="198" width="216" height="16" rx="3"/>
+    <rect x="166" y="184" width="16" height="44" rx="3"/>
+    <rect x="398" y="184" width="16" height="44" rx="3"/>
+    <rect x="140" y="168" width="26" height="76" rx="4"/>
+    <rect x="414" y="168" width="26" height="76" rx="4"/>
+  </g>
+
+  <!-- Yunque -->
+  <g fill="#E8590C" transform="translate(25,0)">
+    <path d="M70 262 L440 262 L440 302 L382 302 L382 312 Q382 340 402 358 L424 376 L424 412 L172 412 L172 376 L198 358 Q220 340 220 312 L220 302 L170 302 Q106 302 70 262 Z"/>
+  </g>
+  <!-- Línea de brillo del yunque -->
+  <rect x="195" y="272" width="250" height="6" fill="#1C1C1E" opacity="0.18"/>
+
+  <!-- Texto -->
+  <text x="304" y="506" text-anchor="middle"
+        font-family="'Arial Black','Impact','Helvetica Neue',Arial,sans-serif"
+        font-weight="900" font-size="92" letter-spacing="8" fill="#1C1C1E">FORJA</text>
+
+  <rect x="62" y="540" width="80" height="5" fill="#E8590C"/>
+  <rect x="458" y="540" width="80" height="5" fill="#E8590C"/>
+  <text x="307" y="552" text-anchor="middle"
+        font-family="'Arial Black','Impact','Helvetica Neue',Arial,sans-serif"
+        font-weight="700" font-size="30" letter-spacing="14" fill="#E8590C">IRON CLUB</text>
+</svg>
