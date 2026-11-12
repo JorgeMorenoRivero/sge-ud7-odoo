@@ -22,3 +22,6 @@ La compañía, el diseño de los documentos, el catálogo de seis productos y lo
 
 Hay tres usuarios internos con permisos distintos, un grupo propio de la empresa y un usuario portal para un cliente. Todo está explicado en [usuarios/usuarios-grupos-permisos.md](usuarios/usuarios-grupos-permisos.md).
 
+## Venta completa
+
+Presupuesto, confirmación, entrega, factura y pago de una venta a Logística Alcazaba Sur S.L., cada paso con el usuario que le corresponde. El detalle está en [venta/proceso-venta.md](venta/proceso-venta.md), con el [presupuesto](venta/presupuesto.pdf) y la [factura](venta/factura.pdf) en PDF.
