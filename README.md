@@ -13,3 +13,7 @@
 ## Instalación
 
 Odoo 19 Community con Docker. Las diapositivas están en [instalacion/instalacion-odoo.pdf](instalacion/instalacion-odoo.pdf) y los errores encontrados, en [instalacion/errores-instalacion.md](instalacion/errores-instalacion.md).
+
+## Configuración de la empresa
+
+La compañía, el diseño de los documentos, el catálogo de seis productos y los dos clientes están configurados en Odoo. Las pruebas están en la carpeta [capturas](capturas/), y las imágenes de los productos, en [empresa/productos](empresa/productos/).
