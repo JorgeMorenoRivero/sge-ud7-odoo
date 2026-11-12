@@ -17,3 +17,8 @@ Odoo 19 Community con Docker. Las diapositivas están en [instalacion/instalacio
 ## Configuración de la empresa
 
 La compañía, el diseño de los documentos, el catálogo de seis productos y los dos clientes están configurados en Odoo. Las pruebas están en la carpeta [capturas](capturas/), y las imágenes de los productos, en [empresa/productos](empresa/productos/).
+
+## Usuarios y permisos
+
+Hay tres usuarios internos con permisos distintos, un grupo propio de la empresa y un usuario portal para un cliente. Todo está explicado en [usuarios/usuarios-grupos-permisos.md](usuarios/usuarios-grupos-permisos.md).
+
