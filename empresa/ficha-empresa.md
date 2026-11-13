@@ -43,5 +43,5 @@ Los precios van sin IVA. A todo se le aplica el 21 %.
 
 ## Clientes de ejemplo
 
-- **Transportes Guadalquivir S.L.**, empresa con convenio para que sus empleados entrenen con nosotros.
+- **Logística Alcazaba Sur S.L.**, empresa con convenio para que sus empleados entrenen con nosotros.
 - **Lucía Ortega Pino**, socia particular.

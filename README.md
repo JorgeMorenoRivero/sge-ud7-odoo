@@ -28,4 +28,4 @@ Presupuesto, confirmación, entrega, factura y pago de una venta a Logística Al
 
 ## Vídeo
 
-No he grabado vídeo. Como prueba de los permisos hay capturas de cada usuario con su sesión iniciada, explicadas en [usuarios/usuarios-grupos-permisos.md](usuarios/usuarios-grupos-permisos.md) y en [venta/proceso-venta.md](venta/proceso-venta.md).
+Vídeo de unos 4 minutos con todo el proceso, desde la instalación hasta la venta completa. Está montado con las capturas del repositorio, con un rótulo que explica cada paso, y lo preparé con ayuda de una IA. Se puede ver aquí: [video/video-sge-ud7-odoo.mp4](video/video-sge-ud7-odoo.mp4).
