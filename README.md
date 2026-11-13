@@ -25,3 +25,7 @@ Hay tres usuarios internos con permisos distintos, un grupo propio de la empresa
 ## Venta completa
 
 Presupuesto, confirmación, entrega, factura y pago de una venta a Logística Alcazaba Sur S.L., cada paso con el usuario que le corresponde. El detalle está en [venta/proceso-venta.md](venta/proceso-venta.md), con el [presupuesto](venta/presupuesto.pdf) y la [factura](venta/factura.pdf) en PDF.
+
+## Vídeo
+
+No he grabado vídeo. Como prueba de los permisos hay capturas de cada usuario con su sesión iniciada, explicadas en [usuarios/usuarios-grupos-permisos.md](usuarios/usuarios-grupos-permisos.md) y en [venta/proceso-venta.md](venta/proceso-venta.md).

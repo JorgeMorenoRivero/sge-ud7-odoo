@@ -57,3 +57,10 @@ Laura registró el pago completo de 2.238,50 € desde el diario Banco. La factu
 ![Factura pagada](../capturas/30-pago-registrado.png)
 
 El PDF de la factura, impreso desde Odoo, está en [factura.pdf](factura.pdf). Aparece con el importe adeudado a 0,00 €.
+
+## Prueba de "solo documentos propios"
+
+Para comprobar que Carlos solo ve lo suyo, Jorge creó un segundo presupuesto (S00002) para otra clienta, Lucía Ortega Pino. Jorge ve los dos documentos y Carlos solo el suyo, el S00001.
+
+![Lista de ventas vista por Jorge](../capturas/31-lista-ventas-jorge.png)
+![Lista de ventas vista por Carlos](../capturas/32-lista-ventas-carlos.png)
